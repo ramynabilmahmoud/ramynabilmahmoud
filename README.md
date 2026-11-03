@@ -19,9 +19,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Architecture:** Clean Architecture · MVVM · SOLID · get_it + injectable
-**Data:** REST · Dio · Socket.IO · Hive · Secure Storage · freezed
-**Other:** auto_route · Localization (Arabic RTL) · Push & local notifications · Unit & widget tests
+- **Architecture:** Clean Architecture · MVVM · SOLID · get_it + injectable
+- **Data:** REST · Dio · Socket.IO · Hive · Secure Storage · freezed
+- **Other:** auto_route · Localization (Arabic RTL) · Push & local notifications · Unit & widget tests
 
 ## ⭐ Featured projects
 
